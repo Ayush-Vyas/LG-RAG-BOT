@@ -70,7 +70,7 @@ LG-RAG-BOT/
 ```bash
 git clone https://github.com/your-username/LG-RAG-BOT.git
 cd LG-RAG-BOT
-
+```
 ---
 
 ### 2️⃣ Backend Setup
