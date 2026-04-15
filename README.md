@@ -124,8 +124,8 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Aarchi Patel
-Ayush Vyas
+- Aarchi Patel
+- Ayush Vyas
 
 ---
 
